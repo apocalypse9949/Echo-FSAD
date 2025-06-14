@@ -14,7 +14,8 @@ This is a free music streaming web application built with Next.js and powered by
 ***
 
 ___
-![image](https://github.com/himanshu8443/hayasaka/assets/99420590/864aec2b-8d60-4278-a475-9f7ee6ae7680)
+![Image](https://github.com/user-attachments/assets/f90962f9-e085-439b-9963-acb5c9b2067d)
+
 
 
 ***
