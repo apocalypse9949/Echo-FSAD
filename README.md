@@ -22,12 +22,12 @@ ___
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/himanshu8443/hayasaka.git
+    git clone https://github.com/apocalypse9949/Echo-FSAD
     ```
 
 2. Install the required packages.
     ```sh
-    cd hayasaka
+    cd Echo-FSAD
     ```
     ```sh
     npm install
